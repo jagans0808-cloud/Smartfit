@@ -1,0 +1,9 @@
+PySide6
+pyqtgraph
+websocket-client
+websockets
+numpy
+scipy
+pandas
+reportlab
+matplotlib
